@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "id": "701c",
+      "title": "пппп",
+      "author": "пппппвв",
+      "category": "Fiction",
+      "isbn": 13212,
+      "updatedAt": "2025-03-05T19:09:57.356Z",
+      "createdAt": "2025-03-05T19:09:49.805Z",
+      "isActive": false
+    },
+    {
+      "id": "8a80",
+      "title": "qwe",
+      "author": "qwe",
+      "category": "Fiction",
+      "isbn": 1231,
+      "updatedAt": "--",
+      "createdAt": "2025-03-05T19:16:15.106Z",
+      "isActive": true
+    },
+    {
+      "id": "ca92",
+      "title": "qwe",
+      "author": "wqeq",
+      "category": "Fiction",
+      "isbn": 3123,
+      "updatedAt": "--",
+      "createdAt": "2025-03-05T19:16:21.095Z",
+      "isActive": true
+    },
+    {
+      "id": "19c0",
+      "title": "21e1w",
+      "author": "qw122",
+      "category": "Fiction",
+      "isbn": 4353453,
+      "updatedAt": "--",
+      "createdAt": "2025-03-05T19:16:39.238Z"
+    },
+    {
+      "id": "6fa6",
+      "title": "wqweqw",
+      "author": "qweqweqw",
+      "category": "Fiction",
+      "isbn": 12313,
+      "updatedAt": "--",
+      "createdAt": "2025-03-05T19:24:02.228Z"
+    }
+  ]
+}
